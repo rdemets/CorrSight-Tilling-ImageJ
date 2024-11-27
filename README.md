@@ -26,3 +26,4 @@ Please acknowledge this repository if you wish to use of modify this macro.
 (0.0.2) Works on XYZCT files 
 <br>(0.1.0) Intermediate hyperstack saved for memory saving purposes 
 <br>(0.1.1) Multichoices of export file format
+<br>(0.1.2) setbatchmode true, improve GUI
